@@ -1,2 +1,2 @@
 # JaneEstrong.github.io
-Estrong's Blog
+JaneEstrong's Blog
